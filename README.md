@@ -4,7 +4,7 @@ Author: [Jeremy R. Manning](http://www.context-lab.com/)
 ## Step right up, step right up!
 <img src='https://media1.giphy.com/media/mL40PfXA394KA/giphy.gif' width='250px'>
 
-**Writing papers got you down?** Come on in, friend!  Give good the Ole' Abstract2papers Cure-All a quick try!  Enter your abstract into the little [doohicky here](), and quicker'n you can blink your eyes<sup>1</sup>, a shiny new paper'll come right out for ya!  What are you waiting for?  (Click the "doohicky" link in the preceding sentence to get started.)
+**Writing papers got you down?** Come on in, friend!  Give good the Ole' Abstract2papers Cure-All a quick try!  Enter your abstract into the little [doohicky here](https://colab.research.google.com/github/ContextLab/abstract2paper/blob/main/resources/abstract2paper.ipynb), and quicker'n you can blink your eyes<sup>1</sup>, a shiny new paper'll come right out for ya!  What are you waiting for?  (Click the "doohicky" link in the preceding sentence to get started by opening the demo notebook in [Google Colaboratory](colab.research.google.com/).)
 
 ## How does it work, you ask?
 
