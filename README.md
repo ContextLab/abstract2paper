@@ -1,4 +1,4 @@
-# Welcome to *abstract2paper*!
+# Welcome to *abstract2paper*: the solution to your writer's block!
 Author: [Jeremy R. Manning](http://www.context-lab.com/)
 
 ## Step right up, step right up!
