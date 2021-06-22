@@ -26,7 +26,7 @@ With a little help from some basic [LaTeX](https://www.latex-project.org/) templ
 
 # ⚠️ Disclaimers ⚠️
 
-This demonstration is provided *as is*, and you choose to run it at your own risk.  The GPT-Neo model is trained on a large collections of documents from a variety of sources across the Internet.  Some of the text it's trained on includes potentially triggering and/or biased and/or horrible and/or disgusting-in-other-ways language.  That means that the text the model produces in the demo may also include disturbing language.  **If you don't want to risk exposure to that sort of text, then you should not run the notebook.**
+This demonstration is provided *as is*, and you choose to run it at your own risk.  The GPT-Neo model is trained on a large collection of documents from a variety of sources across the Internet.  Some of the text it's trained on includes potentially triggering and/or biased and/or horrible and/or disgusting-in-other-ways language.  That means that the text the model produces in the demo may also include disturbing language.  **If you don't want to risk exposure to that sort of text, then you should not run the notebook.**
 
 Further, if you run the demo locally, it may mess up your compute environment, cause your stock portfolio to lose value, trigger the formation of a small-to-medium-sized black hole underneath your chair, put you in a bad mood, and/or otherwise mess up your day/week/month/year/life.  **Proceed with caution.**
 
