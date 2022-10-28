@@ -1,6 +1,8 @@
 # Welcome to *abstract2paper*: the solution to your writer's block!
 Author: [Jeremy R. Manning](http://www.context-lab.com/)
 
+[![DOI](https://zenodo.org/badge/379052513.svg)](https://zenodo.org/badge/latestdoi/379052513)
+
 ## Step right up, step right up!
 <img src='https://media1.giphy.com/media/mL40PfXA394KA/giphy.gif' width='250px'>
 
